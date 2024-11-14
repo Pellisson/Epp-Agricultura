@@ -1,3 +1,0 @@
-arquivo_grande1 filter=lfs diff=lfs merge=lfs -text
-arquivo_grande2 filter=lfs diff=lfs merge=lfs -text
-arquivo_grande3 filter=lfs diff=lfs merge=lfs -text
